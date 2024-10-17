@@ -7,21 +7,21 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.ownernomer = "212664408359" 
-global.Owner = [212644072336']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['212664408359']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['212664408359']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "MOAD"
+global.ownernomer = "2349063310146" 
+global.Owner = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "Rina"
 global.packname = "Erstellt für mein Meister"
 global.author = "MOAD"
-global.OwnerName = "MOAD"
+global.OwnerName = "PETER"
 global.BotSourceCode = "https://github.com/Sebi127391/Miku-MD32" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/HJdkbRo9SyqHQnRAVGDqdW"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['.'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['$'] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "West-Berlin"
