@@ -29,7 +29,7 @@ global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/Kai0071"
-global.lolhuman = "Sebastian"
+global.lolhuman = "PĒTĒR"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
@@ -59,7 +59,7 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: "We're Done Here!!!...",
+    jobdone: "We're Done Here 👍!!!...",
     useradmin: "I'm sorry, only group admins can use this command 😌!",
     botadmin: "I'm sorry, I cannot execute this command without being an Admin of this group 😔.",
     botowner: "Only my owner... PĒTĒR can use this command, Baka!",
@@ -69,7 +69,7 @@ global.mess = {
     waiting: '.........',
     nolink: "Please give me a link 🙄",
     error: 'An error occurred!',
-    banned: "It is forbidden for you to this use command!",
+    banned: "It is forbidden for you to use this command!",
     bangc: "You're unable to use such commands!",
     nonsfw: "Don't be a perverted idiot 👉👈! No NSFW here"
     
