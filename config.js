@@ -7,68 +7,39 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['493023180366','4917662927731','491632225167']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['493023180366','4917662927731','491632225167']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['493023180366','4917662927731']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku-Max_v4-Beta"
-global.packname = "Erstellt für User"
+global.Owner = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "Miku-MD"
+global.packname = "Created For PĒTĒR"
 global.author = "MkM Bot Inc."
 global.OwnerName = "Max"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
-global.sitzung = "Miku-Max_v4"
+global.sitzung = "Miku-MD"
 global.script = "https://github.com/txmx4/m_m0001"
 global.skript = "https://github.com/txmx4/m_m0001"
 
 
-global.owner1 = "Max_2 | +493023180366"
-global.owner3 = "Max_2 |+4917662927731"
-global.owner2 = "Kirito | +491777062822"
-global.manage = "Pablo | +491632225167"
-global.support1 = "Jabee1 | +49 4916093444217"
-global.support2 = "Kevin | +491777108553"
-global.support3 = "Mario | +491788781873"
-global.support4 = "Jabee2 | +4916093444217"
+global.owner1 = "PĒTĒR | +2349063310146"
+global.manage = "PĒTĒR | +2349063310146"
+global.support1 = "PĒTĒR | +2349063310146"
 global.dev = "*Undefined* | Error"
 global.devs = "*Undefined* | Error"
-global.host1 = "Kevin | +491777108553"
+global.host1 = "PĒTĒR | +2349063310146"
 
 
 
-global.supporter1 = "Jaybee1 | +49 4916093444217"
-global.supporterin1 = "Jaybee1 | +49 4916093444217"
-global.supporter2 = "Kevin | +491777108553"
-global.supporterin2 = "Kevin | +491777108553"
-global.supporter3 = "Mario | +491788781873"
-global.supporterin3 = "Mario | +491788781873"
-global.supporter4 = "Jaybee2 | +4916093444217"
-global.supporterin4 = "Jaybee2 | +4916093444217"
-global.hoster1 = "Kevin | +491777108553"
-global.hosterin1 = "Kevin | +491777108553"
-global.manager = "Pablo | +491632225167"
-global.managerin = "Pablo | +491632225167"
-
-global.chatgr = "https://chat.whatsapp.com/LPH7g7UTSZO0RH9ZRqBm7D"
-global.ankundigung = "https://chat.whatsapp.com/G0nG2wuUtug4dI12WgXWNt"
-global.werbunggr = "https://chat.whatsapp.com/GwvXFuOV3MqA5iYyyxZcyx"
-global.nsfwgr = "https://chat.whatsapp.com/FMDqCkfLfbkHA3oaxtuAc9"
-global.broadcastgr = "https://chat.whatsapp.com/DqMT7TbY07BFEiYUbwuzk8"
-global.support = "https://chat.whatsapp.com/DOnXPARAhdg3qptwUlPuye"
-global.bewerbung = "https://chat.whatsapp.com/LS47HKf5kDRDqS7htdGeBY"
-global.test1 = "https://chat.whatsapp.com/GDfOjcVqD3ZITvfe4FM5wf"
-global.test2 = "https://chat.whatsapp.com/EzjnDNuLtoo9px21tDvIi7"
-global.betatest = "https://chat.whatsapp.com/D2RngbN5ZH33IjpnwXrGdD"
-global.mikuot = "https://chat.whatsapp.com/HZtUUYYXceDH9TfmTlwlLr"
-global.teamgr = "https://chat.whatsapp.com/LWHQvmX171MBHoRzlN9l35"
-global.botsgr = "https://chat.whatsapp.com/IGZ4LAuoNPtJzMaG5HDrkY"
-global.supportanfragengr = "https://chat.whatsapp.com/L4LIsHrA051B3PIIhcp4Ji"
-global.mikucommand = "https://chat.whatsapp.com/JFG3pKH5ct5BNxHwIJv34n"
-global.ownerchatgr = "https://chat.whatsapp.com/JjRfd8fIl8aJEZ6EQwANrx"
-global.ideen = "https://chat.whatsapp.com/FFPwoiP84xhDiKOCOZ04mv"
+global.supporter1 = "PĒTĒR | +2349063310146"
+global.supporterin1 = "PĒTĒR | +2349063310146"
+global.hoster1 = "PĒTĒR | +2349063310146"
+global.hosterin1 = "PĒTĒR | +2349063310146"
+global.manager = "PĒTĒR | +2349063310146"
+global.managerin = "PĒTĒR | +2349063310146"
 
 
-global.prefa = ['!'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['$'] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "West-Berlin"
@@ -76,7 +47,7 @@ global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/a"
-global.lolhuman = "Max"
+global.lolhuman = "PĒTĒR"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
@@ -106,19 +77,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job erledigt...',
-    useradmin: 'Tut mir leid, nur *Gruppen-Admins* können diesen Befehl verwenden *Baka*!',
-    botadmin: 'Tut mir leid, ich kann diesen Befehl nicht ausführen, ohne ein *Admin* dieser Gruppe zu sein.',
-    botowner: 'Nur mein *Eigentümer* kann diesen Befehl verwenden, Baka!',
-    grouponly: 'Dieser Befehl gilt nur für *Groups*, Baka!',
-    privateonly: 'Dieser Befehl ist nur für *Private Chat*, Baka gedacht!',
-    botonly: 'Nur der *Bot selbst* kann diesen Befehl verwenden!',
+    jobdone: 'Job Done 👍...',
+    useradmin: "Only group admins can use this command, Baka!",
+    botadmin: "I'm sorry, I cannot execute this command without being an Admin of this group 😔.",
+    botowner: "Only my owner... PĒTĒR can use this command, Baka!",
+    grouponly: "This command is only valid for Groups, Baka!",
+    privateonly: "This command is only intended for Private Chats, Baka!",
+    botonly: "Only the bot itself can use this command!",
     waiting: 'Chotto Matte...',
-    nolink: 'Bitte gib mir *link*, Baka!',
-    error: 'An error occurd!',
-    banned: 'Es ist Ihnen *verboten*, Befehle zu verwenden!',
-    bangc: 'Diese Gruppe ist von der Verwendung von Befehlen *gesperrt*!',
-    nonsfw: 'Sei kein perverser Baka 👉👈! Dies ist keine NSFW-aktivierte Gruppe!'
+    nolink: "Please give me a link, Baka!",
+    error: 'An error occurred!',
+    banned: "It is forbidden for you to use this command!",
+    bangc: "You're unable to use such commands!",
+    nonsfw: "Don't be a pervert Baka 👉👈! This is not an NSFW-enabled group!"
     
 }
 
