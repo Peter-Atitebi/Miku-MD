@@ -12,9 +12,9 @@ global.Owner = ['2349063310146']  // -- Add multiple numbers like  ['91810196783
 global.OwnerNumber = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.ownertag = ['2349063310146']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Rina"
-global.packname = "Erstellt für mein Meister"
+global.packname = "Created For PĒTĒR"
 global.author = "MOAD"
-global.OwnerName = "PETER"
+global.OwnerName = "PĒTĒR"
 global.BotSourceCode = "https://github.com/Sebi127391/Miku-MD32" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/HJdkbRo9SyqHQnRAVGDqdW"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
@@ -59,19 +59,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job erledigt...',
-    useradmin: 'Tut mir leid, nur *Gruppen-Admins* können diesen Befehl verwenden *Baka*!',
-    botadmin: 'Tut mir leid, ich kann diesen Befehl nicht ausführen, ohne ein *Admin* dieser Gruppe zu sein.',
-    botowner: 'Nur mein *Eigentümer* kann diesen Befehl verwenden, Baka!',
-    grouponly: 'Dieser Befehl gilt nur für *Groups*, Baka!',
-    privateonly: 'Dieser Befehl ist nur für *Private Chat*, Baka gedacht!',
-    botonly: 'Nur der *Bot selbst* kann diesen Befehl verwenden!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Bitte gib mir *link*, Baka!',
-    error: 'An error occurd!',
-    banned: 'Es ist Ihnen *verboten*, Befehle zu verwenden!',
-    bangc: 'Diese Gruppe ist von der Verwendung von Befehlen *gesperrt*!',
-    nonsfw: 'Sei kein perverser Baka 👉👈! Dies ist keine NSFW-aktivierte Gruppe!'
+    jobdone: "We're Done Here!!!...",
+    useradmin: "I'm sorry, only group admins can use this command 😌!",
+    botadmin: "I'm sorry, I cannot execute this command without being an Admin of this group 😔.",
+    botowner: "Only my owner... PĒTĒR can use this command, Baka!",
+    grouponly: "This command is only valid for Groups, Baka!",
+    privateonly: "This command is only intended for Private Chats, Baka!",
+    botonly: "Only the bot itself can use this command!",
+    waiting: '.........',
+    nolink: "Please give me a link 🙄",
+    error: 'An error occurred!',
+    banned: "It is forbidden for you to this use command!",
+    bangc: "You're unable to use such commands!",
+    nonsfw: "Don't be a perverted idiot 👉👈! No NSFW here"
     
 }
 
